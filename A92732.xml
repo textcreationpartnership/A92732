@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scots remonstrance: concerning their King, the Parliament of England, and the Lord General Cromwel and his army: with their desires and proposals. And a declaration of the King of Scotland, touching his power and government, the Presbyterian party, and the Solemn League and Covenant. Signed by the Lord Lowden, Cancel.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92732</idno><idno type="EEBO-CITATION">99865543</idno>
+  <idno type="VID">117788</idno>
+  <idno type="EEBO-PROQUEST">2248495255</idno>
+  
+            <idno type="STC">Wing S2029A</idno>
+            <idno type="STC">Thomason E620_14</idno>
+            <idno type="STC">ESTC R206383</idno>
+            <idno type="PROQUEST">99865543</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865543e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92732)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117788)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 95:E620[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scots remonstrance: concerning their King, the Parliament of England, and the Lord General Cromwel and his army: with their desires and proposals. And a declaration of the King of Scotland, touching his power and government, the Presbyterian party, and the Solemn League and Covenant. Signed by the Lord Lowden, Cancel.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a titlepage woodcut.</note>
+                  <note>Annotation on Thomason copy: "Decem 30 1650".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117788:1"/>
+            <p>The Scots REMONSTRANCE: <hi>CONCERNING</hi> Their KING, the Parliament of <hi>England,</hi> and the Lord General <hi>Cromwel</hi> and his <hi>Army:</hi> With their Desires and Proposals. And a <hi>Declaration</hi> of the <hi>King</hi> of <hi>Scotland,</hi> touching his <hi>Power</hi> and <hi>Government,</hi> the <hi>Presbyterian Party,</hi> and the <hi>Solemn League</hi> and <hi>Covenant.</hi>
+            </p>
+            <p>
+               <hi>Signed by the Lord</hi> Lowden, <hi>Cancel.</hi>
+            </p>
+            <figure>
+               <figDesc>man on smiling horse</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. W.</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117788:2"/>
+            <pb n="1" facs="tcp:117788:2"/>
+            <head>The SCOTS Remonstrance, &amp;c.</head>
+            <p>ALthough we do not judg of the undertakings of the Lords People by the success, and are not shaken by the dissipating of our Army, nor brought to question our Cause; yet we think our selvs and all the People of this Land, call<g ref="char:EOLhyphen"/>ed by these late dispensations, to <hi>search and try our ways;</hi> we do therefore esteem it our duty, while we are a<g ref="char:EOLhyphen"/>bout to adventure our lives against the Enemy, as providence shall give opportunisy, freely and faithfully to make our thoughts known to your Lordships, concerning the causes and remedies of the Lords indignation, which hath gone out against his people; wherein, as we suppose, we need not in<g ref="char:EOLhyphen"/>sist upon the sins contained in the late causes of the Fast, pub<g ref="char:EOLhyphen"/>lished by the Commissioners of the <hi>Kirk,</hi> relating to the con<g ref="char:EOLhyphen"/>duct and carriage of our Army, and other things; but we shall to that which directly concerns your Lordships.</p>
+            <p n="1">1. That which is obvious in the first place, amongst the sins of the Land, is in our late proceedings with the King; wherein that we be not mistaken, we shall distinguish be<g ref="char:EOLhyphen"/>twixt our <hi>Duty</hi> and our <hi>Sin.</hi>
+            </p>
+            <p>We own and acknowledg it for our <hi>Duty</hi> to use all lawful means for reclaiming the <hi>King,</hi> and to own his interest accor<g ref="char:EOLhyphen"/>ding to our vocation, so far as he owns and prosecutes the Cause.</p>
+            <p n="2">2. That there was so great haste and precipitation, and a
+<pb n="2" facs="tcp:117788:3"/>second address to the King; after the first had been rejected, as appeared in the publick motion of it, without any previ<g ref="char:EOLhyphen"/>ous consultation about it, in the sudden election of Commis<g ref="char:EOLhyphen"/>sioners for the solemn address, and in refusing to delay the matter till the meeting of the Parl: then very near, and all this haste made, when there was information given, that his Majesty, at the same time had given Commissions to invade this Kingdom, and without seeking the Lords direction in a matter of so high consequence to the work and people of God.</p>
+            <p n="3">3. That the Treaty was continued after the Lord had clearly discovered the Kings unright dealing in the actual in<g ref="char:EOLhyphen"/>vasion of this Kingdom, by his Warrant and Commission du<g ref="char:EOLhyphen"/>ring the Treaty.</p>
+            <p n="4">4. There was too great forwardness in some of the Com<g ref="char:EOLhyphen"/>missioners to close the Treaty without satisfaction approved by the Parl: and the imploying instruments to perswade the King, who were either open enemies to the Cause and Cove<g ref="char:EOLhyphen"/>nant, or had dealt deceitfully therein; from whom nothing could be exspected, but to teach his Majesty dissimulation and outward compliance, rather then any cordial conjuncti<g ref="char:EOLhyphen"/>on in the Cause and Covenant.</p>
+            <p n="5">5. When the Parl: of this Kingdom was acquainted with the transactions of our Commissioners with the King at <hi>Bre<g ref="char:EOLhyphen"/>da,</hi> and had declared their dissatisfaction with several things therein, and had made the same known to our Commissio<g ref="char:EOLhyphen"/>ners.</p>
+            <p>These things we look upon as high provocations before the Lord, threatning no lesse then destruction to us and to our King, notwithstanding this sinful way of agreement, for which we and many of the Lords people in the Land have mourned, finding nothing in all the progress of the business that might give us any sure ground of hope that the Lords controversie was removed from the royal Family; yet ha<g ref="char:EOLhyphen"/>ving been willing to wait until the Lord should make some discovery whether the King had really joyned in the Cause and Covenant, or had onely come in for worldly ends and
+<pb n="3" facs="tcp:117788:3"/>designs, and had reclaimed his old enmity with the work of God, and friendship with the enemies thereof; but now there being clear evidences that the Land hath been deceived and ensnared by his dissembling in the Lords work, as may appear,</p>
+            <p n="1">1. By his countenancing and entertaining the Malignant party in this Kingdom, his cleaving to their Company, and following their Councels, who have abused him and taught him to continue in his former opposition to the work, and in his late compliance that he might wind himself into pow<g ref="char:EOLhyphen"/>er to prosecute his former designs.</p>
+            <p n="2">2. By his keeping correspondence with the notorious e<g ref="char:EOLhyphen"/>nemies of the work of Reformation and Covenant abroad, such as the Marquess of <hi>Ormond,</hi> and the Earl of <hi>Newcastle,</hi> and others.</p>
+            <p n="3">3. By his refusing to sign the Declaration offered to him by the Committee of Estates, and Commissioners of the Go<g ref="char:EOLhyphen"/>neral Assembly, until he was necessitated by Declarations concerning him, and till it was in a kind extorted from him.</p>
+            <p n="4">4. By his pursuing this same design since the <hi>Treaty</hi> as be<g ref="char:EOLhyphen"/>fore, endeavouring to have the Malignants of this Kingdom in Power and Trust, as appears by his frequent conversing and correspondences with them, notwithstanding they are discharged the <hi>Countrey</hi> by act of <hi>Parliament,</hi> by his writing to the Commis. of the <hi>Kirk</hi> to that purpose, and when it was denied by them, by his Instructions to the Lord <hi>Chancellor,</hi> communicated to the Committee of Estates the 26. of <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> last, pleading for a conjunction with the malignant party.</p>
+            <p>And at last when neither <hi>Kirk</hi> nor <hi>State</hi> did give their con<g ref="char:EOLhyphen"/>currence therein, he deserted the Councels of the Kingdom, and privately did convey himself away to joyn with the Ma<g ref="char:EOLhyphen"/>lignants, who had ever since his coming to the Kingdom, waited for that opportunity, and with whom he had cor<g ref="char:EOLhyphen"/>responded, carrying on a design to raise them again in Arms.</p>
+            <pb n="4" facs="tcp:117788:4"/>
+            <p>And albeit the publick Judicatures of Kirk and State, have in their <hi>Declarations</hi> sufficiently cleared themselvs of that guilt which is unjustly charged upon them by the adversary, to wit, an Engagement to the King, and a design laid down to invade <hi>England,</hi> and force the King upon that Nation by Arms; and although we can purge our selves before the Lord, that we never had any such design, which we can profess with the more clearness, because neither the lawfulness nor neces<g ref="char:EOLhyphen"/>sity thereof, nor our calling thereto was ever so much as de<g ref="char:EOLhyphen"/>bated in the publick Judicatories: all which was declared to be necessarily previous to any such resolution, and to which we still purpose to adhere: yet we beseech your Lord<g ref="char:EOLhyphen"/>ships to consider, whether in Gods sight, who will not be mocked with <hi>Declarations,</hi> contrary to intentions, there be not just cause to charge some eminent persons in our Coun<g ref="char:EOLhyphen"/>sels, and forces with such Engagements and designs, to in<g ref="char:EOLhyphen"/>vade <hi>England</hi> for the enforsing of the King on that Nation, and for inriching themselves with their spoil, and that the Lord is righteous in doing to this Nation, as many in our Armies did to <hi>England,</hi> when we were called in to their as<g ref="char:EOLhyphen"/>sistance, and as was now intended by many to be done again by a new invasion.</p>
+            <p>Let it therefore be examined, how great a provocation this is in any person, to have intended an invasion, and forcing of the King on another Nation not subordinate to us, with<g ref="char:EOLhyphen"/>out any previous debate and determination of the lawfulness and necessity thereof, by the Parl: and general assembly, or their Commissioners, and without the previous clearing of our calling to it, and without the previous removing of the Lords controversie against the King, whom justly the Lord hath removed from the Government of the Kingdom, what<g ref="char:EOLhyphen"/>soever injustice was on mans part; And what an intended conjunction with the malignant party, so far contrary to the publick Declarations of the Kingdom, and attestation of God, that we had no such designs. If it be sin in us to have put into the Kings hands the exercise of power in this Nati<g ref="char:EOLhyphen"/>on, before evidences had of a real change in him, how much more sinful must it be to have designed, or endeavoured the
+<pb n="5" facs="tcp:117788:4"/>putting of more power into his hands in <hi>England?</hi> We can<g ref="char:EOLhyphen"/>not judge otherwise of such a design, then to be a preferring of mans interest to Gods, and a betraying of his Cause and people into the hands of one, who had not laid down his en<g ref="char:EOLhyphen"/>mity against both.</p>
+            <p>In the next place, the great and mother sin of this Nation we conceive to be backsliding breach of Covenant, and En<g ref="char:EOLhyphen"/>gagements unto the Lord. It hath been our manner in all our troubles, to take Vows and Resolutions against these sins which have been looked upon, as causes of our affliction; we have so often lied unto the Lord with our tongues, and flattered him with our lips, that we deserve to be no more trusted by him. And as we purpose not to forget our own breaches of Covenant, and sins of that sort, so we humbly desire your Lordships to lay to heart, how unanswerably you have walked to your solemn Engagement, to purge Judica<g ref="char:EOLhyphen"/>tures and Armies, and to fill the places of power and trust, with men of known good affection to God, and of a blame<g ref="char:EOLhyphen"/>less and Christian Conversation.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>A Declaration of the King and Councel of SCOTLAND.</head>
+                        <p>
+                           <hi>THe Kings Majesty and Committee of Estates having taken into consideration a paper presented to the said Committee at Sterling the</hi> 25. <hi>of Octob in name of the Gentlemen Officers and Ministers at<g ref="char:EOLhyphen"/>tending the Western Forces.</hi>
+                        </p>
+                        <p>
+                           <hi>That they have always been, and are still willing that all faults and miscarriages of any, as well their personal carriage, as in discharge of their publick trust, may be discovered, redressed, and punished accord<g ref="char:EOLhyphen"/>ing to the Laws of the Kingdom; and that they find it their duty to shew their dislike of many things remonstrated and held forth in the said paper, and have resolved in general to declare as followeth.</hi>
+                        </p>
+                        <pb n="6" facs="tcp:117788:5"/>
+                        <p>
+                           <hi>That they find the said paper, as it relates to the Parl: and civil Judicatories, to be scandalous and injurious to his Majesties person, and prejudicial to his Authorite, and as it relates to Religion and Church-Judicatories, they are to desire the Commissioners of the Church to give their sense thereupon, and that in regard of the ef<g ref="char:EOLhyphen"/>fects it hath already produced, and those that are like to follow there<g ref="char:EOLhyphen"/>upon, if not prevented, it holds forth the seeds of division of a dange<g ref="char:EOLhyphen"/>rous consequence, and that it is dishonourable to the Kingdom in so far as it tends to a breach of the Treaty with the Kings Majesty at</hi> Breda, <hi>approved in Parl: and general Assembly: That it also strengthens the hand of the enemy, giving him to justifie his most unjust invasion, and the bloodshed and oppression committed by him in this Kingdom; and weaken the hands of many honest men: And likewise the said paper holds forth in the close of it a band of high and dangerous consequence, and albeit the said paper hath been wickedly and subtilly contrived, yet because some honest, faithful, and religious Gentlemen, Officers and Ministers, and others of approved fidelity in the cause, of whom they do not harbour the least thought to their prejudices, have been thereby insnared: Therefore the Kings Majest, and Committee of Estates do hereby declare the said Persons free of any imputation upon their names, or censures upon their persons or Estates, excepting here from all such who shall adhere to the former Remonstrance by persisting in and prosecuting of what is therein contrary to the Laws of the King<g ref="char:EOLhyphen"/>dom.</hi>
+                        </p>
+                        <closer>
+                           <salute>
+                              <hi>Sic subscribitur Lowden</hi> Cancel.</salute>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Since the drawing up of this Declaration, the <hi>Scotch</hi> King hath made a Speech in Parl: in relation to their proceedings against the <hi>English</hi> Army, and at the close thereof said, <hi>That he was the first King that had taken the Covenant, and therefore he hoped the blessing of God would attend them in their present enter<g ref="char:EOLhyphen"/>prise, and Cause in hand, &amp;c.</hi> Divers of the Committee of E<g ref="char:EOLhyphen"/>states have entred a Protestation, against taking in of the roy<g ref="char:EOLhyphen"/>al party; and upon that score it is said, that their King is to go Northward for the raising of more Forces.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
